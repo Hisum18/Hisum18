@@ -1,17 +1,17 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:6a3de8,100:00d4ff&height=200&section=header&text=Hisum%20Shash&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=CS%20%40%20George%20Mason%20%C2%B7%20Intern%20%40%20Nrdyn&descAlignY=58&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,50:b31217,100:ff3b3b&height=200&section=header&text=Hisum%20Shash&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=CS%20%40%20George%20Mason%20%C2%B7%20Intern%20%40%20Nrdyn&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <p align="center">
   <a href="https://hisumshash.vercel.app">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=600&lines=Software+Engineer+%C2%B7+Web+%26+Mobile;CS+student+%40+GMU;Intern+%40+Nrdyn;Building+Snipe+%E2%80%94+job+alerts+in+minutes" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=FF3B3B&center=true&vCenter=true&width=600&lines=Software+Engineer+%C2%B7+Web+%26+Mobile;CS+student+%40+GMU;Intern+%40+Nrdyn;Building+Snipe+%E2%80%94+job+alerts+in+minutes" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://hisumshash.vercel.app"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://trysnipe.vercel.app"><img src="https://img.shields.io/badge/Snipe-00D4FF?style=for-the-badge&logo=target&logoColor=black" /></a>
-  <a href="https://goaldyn.nrdyn.com"><img src="https://img.shields.io/badge/Goaldyn-App_Store-F5B82E?style=for-the-badge&logo=apple&logoColor=black" /></a>
-  <a href="https://fasih.nrdyn.com"><img src="https://img.shields.io/badge/Fasih-App_Store-2EA043?style=for-the-badge&logo=apple&logoColor=white" /></a>
-  <a href="https://qahwahdrip.com"><img src="https://img.shields.io/badge/Qahwah_Drip-6F4E37?style=for-the-badge&logo=buymeacoffee&logoColor=white" /></a>
+  <a href="https://hisumshash.vercel.app"><img src="https://img.shields.io/badge/Portfolio-B31217?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://trysnipe.vercel.app"><img src="https://img.shields.io/badge/Snipe-FF3B3B?style=for-the-badge&logo=target&logoColor=white" /></a>
+  <a href="https://goaldyn.nrdyn.com"><img src="https://img.shields.io/badge/Goaldyn-App_Store-E52D27?style=for-the-badge&logo=apple&logoColor=white" /></a>
+  <a href="https://fasih.nrdyn.com"><img src="https://img.shields.io/badge/Fasih-App_Store-8B0000?style=for-the-badge&logo=apple&logoColor=white" /></a>
+  <a href="https://qahwahdrip.com"><img src="https://img.shields.io/badge/Qahwah_Drip-5C0A0A?style=for-the-badge&logo=buymeacoffee&logoColor=white" /></a>
 </p>
 
 ---
@@ -45,7 +45,7 @@
 ### 📈 Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Hisum18&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=00D4FF&currStreakLabel=8B5CF6" />
+  <img src="https://streak-stats.demolab.com?user=Hisum18&theme=dark&hide_border=true&background=0D1117&ring=FF3B3B&fire=FF3B3B&currStreakLabel=FF3B3B&currStreakNum=FFFFFF&sideNums=FF6B6B&sideLabels=FF6B6B&dates=9E9E9E&stroke=3A0A0A" />
 </p>
 
 <p align="center">
@@ -56,4 +56,4 @@
   </picture>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:6a3de8,100:0f0c29&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff3b3b,50:b31217,100:1a0000&height=120&section=footer" />
